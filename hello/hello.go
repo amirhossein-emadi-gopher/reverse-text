@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/amirhossein-emadi-gopher/reverse-text/reverse"
+)
 
 func main() {
-	fmt.Println("Hi there!")
+	fmt.Println(reverse.String("Hello"))
 }
