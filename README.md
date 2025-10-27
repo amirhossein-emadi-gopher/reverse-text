@@ -1,4 +1,4 @@
-**Reverse Text - Console App (Getting started with multi-module workspaces)**
+**Reverse Text - Console App (tutorial: getting started with multi-module workspaces)**
 
 # Run the App
 
